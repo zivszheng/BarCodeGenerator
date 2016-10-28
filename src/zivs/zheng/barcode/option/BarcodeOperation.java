@@ -1,4 +1,4 @@
-package zivs.hubs1.barcode.option;
+package zivs.zheng.barcode.option;
 
 import java.awt.image.BufferedImage;
 import java.io.File;
@@ -8,10 +8,10 @@ import java.util.Map;
 
 import javax.imageio.ImageIO;
 
-import zivs.hubs1.barcode.entity.GeneratorProperties;
-import zivs.hubs1.barcode.entity.ResultVo;
-import zivs.hubs1.barcode.tools.BufferedImageLuminanceSource;
-import zivs.hubs1.barcode.tools.MatrixToImageWriter;
+import zivs.zheng.barcode.entity.GeneratorProperties;
+import zivs.zheng.barcode.entity.ResultVo;
+import zivs.zheng.barcode.tools.BufferedImageLuminanceSource;
+import zivs.zheng.barcode.tools.MatrixToImageWriter;
 
 import com.google.zxing.BarcodeFormat;
 import com.google.zxing.Binarizer;

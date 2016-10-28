@@ -1,4 +1,4 @@
-package zivs.hubs1.barcode.constant;
+package zivs.zheng.barcode.constant;
 
 /**
  * @ClassName: BarCodeFormatEnum

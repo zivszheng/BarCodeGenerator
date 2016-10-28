@@ -1,4 +1,4 @@
-package zivs.hubs1.barcode.entity;
+package zivs.zheng.barcode.entity;
 
 import java.io.Serializable;
 

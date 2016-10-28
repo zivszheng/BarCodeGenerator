@@ -1,8 +1,8 @@
-package zivs.hubs1.barcode.entity;
+package zivs.zheng.barcode.entity;
 
 import java.io.Serializable;
 
-import zivs.hubs1.barcode.constant.BarCodeFormatEnum;
+import zivs.zheng.barcode.constant.BarCodeFormatEnum;
 
 public class GeneratorProperties implements Serializable {
     /**

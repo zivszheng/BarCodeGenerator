@@ -1,4 +1,4 @@
-package zivs.hubs1.barcode.logo;
+package zivs.zheng.barcode.logo;
 
 import java.awt.Color;
 import java.io.Serializable;

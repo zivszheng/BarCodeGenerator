@@ -1,4 +1,4 @@
-package zivs.hubs1.test;
+package zivs.zheng.test;
 
 import java.io.File;
 import java.text.DateFormat;
@@ -7,10 +7,10 @@ import java.util.Date;
 
 import org.junit.Test;
 
-import zivs.hubs1.barcode.constant.BarCodeFormatEnum;
-import zivs.hubs1.barcode.entity.GeneratorProperties;
-import zivs.hubs1.barcode.entity.ResultVo;
-import zivs.hubs1.barcode.option.BarcodeOperation;
+import zivs.zheng.barcode.constant.BarCodeFormatEnum;
+import zivs.zheng.barcode.entity.GeneratorProperties;
+import zivs.zheng.barcode.entity.ResultVo;
+import zivs.zheng.barcode.option.BarcodeOperation;
 
 public class BarcodeOperationTest {
     BarcodeOperation  opt = new BarcodeOperation();
